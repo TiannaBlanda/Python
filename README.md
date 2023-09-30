@@ -1,5 +1,5 @@
-!#*Python
-My*[day-wise] Python Learning journey
+!!*Python
+My*[day-wise]*Python Learning journey
 
 ## Resources
 Python 3 Learning
@@ -317,4 +317,4 @@ Python quick reference cards
 |       02_Using_Beautiful_Soup.py
 
 ```
- 
+  
